@@ -19,5 +19,8 @@
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "jslint": "^0.12.0"
   }
 }
